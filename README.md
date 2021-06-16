@@ -32,3 +32,6 @@ To connect with me,
   <img src = "https://github-readme-stats.vercel.app/api?username=hbgit&show_icons=true&theme=default&line_height=27">  
 </p>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hbgit&hide=html,jupyter%20notebook,css,shell,roff,cmake,javascript,vim%20script,makefile,assembly,julia,ruby,dockerfile,kotlin,swift,objective-c&layout=compact&langs_count=8">  
+</p>
